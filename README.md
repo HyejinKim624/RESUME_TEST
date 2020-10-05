@@ -31,3 +31,10 @@
 |오픈소스sw의이해|깃허브|3|
 |컴파일러구성|flex&bsion|3|
 |컴퓨터구조|MIPS assembly language|3|
+
+github address : [HyejinKim624][github]
+
+[github]: https://github.com/HyejinKim624
+
+
+
